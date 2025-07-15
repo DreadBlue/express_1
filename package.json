@@ -1,0 +1,16 @@
+{
+  "name": "api-reservas-salas",
+  "version": "1.0.0",
+  "description": "API REST para gestionar reservas de salas de estudio",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "uuid": "^9.0.0"
+  },
+  "keywords": ["api", "rest", "reservas", "salas", "biblioteca"],
+  "author": "",
+  "license": "ISC"
+}
